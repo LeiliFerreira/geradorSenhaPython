@@ -65,17 +65,3 @@ print("\033[1;33mGerando senha...\033[m")
 sleep(2)
 
 print("\033[30mResultado:\033[m {}".format(resultado))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
